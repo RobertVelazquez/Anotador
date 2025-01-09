@@ -1,3 +1,3 @@
-Es un procesador de texto para didactico 
-simplifica la manera de escribir
-multiple funciones, facil de usar
+Es un procesador de texto  didactico, 
+simplifica la manera de escribir, 
+multiple funciones, facil de usar..
